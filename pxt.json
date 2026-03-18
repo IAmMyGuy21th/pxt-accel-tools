@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "controller": "*",
-        "Notifications": "github:unsignedarduino/notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec"
+        "controller": "*"
     },
     "files": [
         "main.blocks",
